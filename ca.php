@@ -4,7 +4,7 @@ $LANG = array(
 
 # Global
 'TRANSLATED_BY' 		    => 'translation credit: <a href="https://www.davidrevoy.com">David Revoy</a>',
-'LANGUAGE_NAME' 			=> 'English',
+'LANGUAGE_NAME' 			=> 'Català',
 'LANGUAGE_ISO_CODE_2_LETTER'=> 'en',
 # http://www.w3schools.com/tags/ref_language_codes.asp --> full list
 
