@@ -3,57 +3,57 @@
 $LANG = array(
 
 # Global
-'TRANSLATED_BY' 		    => 'translation credit: <a href="https://www.davidrevoy.com">David Revoy</a>',
+'TRANSLATED_BY' 		    => 'translation credit: Juan José Segura ',
 'LANGUAGE_NAME' 			=> 'Català',
-'LANGUAGE_ISO_CODE_2_LETTER'=> 'en',
+'LANGUAGE_ISO_CODE_2_LETTER'=> 'ca',
 # http://www.w3schools.com/tags/ref_language_codes.asp --> full list
 
 ################################################################################
 # Header HTML infos for search engine and title in tab:
-'PEPPERCARROT_VEGETABLE'    =>  'Pepper and Carrot', // litteral translation of spices + vegetable
-'Website_DESCRIPTION'        =>  'Official homepage of Pepper&amp;Carrot, a free/libre and open-source webcomic about Pepper, a young witch and her cat, Carrot. They live in a fantasy universe of potions, magics, and creatures.',
-'SUBTITLE'                  =>  'the Open Webcomic by David Revoy',
+'PEPPERCARROT_VEGETABLE'    =>  'Pepper i Carrot', // litteral translation of spices + vegetable
+'Website_DESCRIPTION'        =>  'Web oficial de Pepper&amp;Carrot, un webcòmic free/libre i open-source sobre la Pepper, una jove bruixa i el seu gat, Carrot. Tots dos viuen en un univers fantàstic de pocions, màgia, i tot tipus de criatures.',
+'SUBTITLE'                  =>  'el Webcòmic obert per David Revoy',
 
 ################################################################################
 # Top menu website:
-'HOMEPAGE'      =>  'Homepage',
-'WEBCOMICS'     =>  'Webcomics',
-'BLOG'          =>  'Blog',
-'PHILOSOPHY'    =>  'Philosophy',
-'CONTRIBUTE'    =>  'Contribute',
-'SOURCES'       =>  'Sources',
-'AUTHOR'        =>  'Author',
-'FOLLOW'        =>  'Follow Pepper&amp;Carrot on:',
+'HOMEPAGE'      =>  'Principal',
+'WEBCOMICS'     =>  'Webcòmics',
+'BLOG'          =>  'Bloc',
+'PHILOSOPHY'    =>  'Filosofia',
+'CONTRIBUTE'    =>  'Contribueix-hi',
+'SOURCES'       =>  'Fonts',
+'AUTHOR'        =>  'Autor',
+'FOLLOW'        =>  'Segueix Pepper&amp;Carrot a:',
 
 ################################################################################
 # Top and bottom translation panel
-'ADD_TRANSLATION'       => 'add a translation',
-'CORRECTIONS' 			=> 'propose a correction',
+'ADD_TRANSLATION'       => 'afegeix-hi una traducció',
+'CORRECTIONS' 			=> 'proposa una correcció',
 
 ################################################################################
 # Page: Homepage
 'HOMEPAGE_BIG_TEXT'		    =>  '
-    A free, libre and open-source webcomic<br/>
-    supported directly by its patrons<br/>
-    to change the comic book industry!<br/>
+    Un webcòmic gratuït, libre i open-source <br/>
+    finançat directament pels seus mecenes<br/>
+    per tal de canviar la indústria del còmic!<br/>
 ',
-'HOMEPAGE_PATREON_INFO'     =>  'For only 1$ per new episode, become a patron today on Patreon',
-'HOMEPAGE_MOREINFO_BUTTON'  =>  'More information',
-'HOMEPAGE_PATREON_BUTTON'   =>  'become a patron of Pepper&amp;Carrot on Patreon',
-'HOMEPAGE_LAST_EPISODE'     =>  'Latest episode:',
-'HOMEPAGE_NEWS_UPDATE'      =>  'News and Update:',
-'HOMEPAGE_MOREPOSTS_BUTTON' =>  'More posts',
+'HOMEPAGE_PATREON_INFO'     =>  'Converteix-te en un mecenes des d'avui a Patreaon per tan sols 1$ per cada nou episodi',
+'HOMEPAGE_MOREINFO_BUTTON'  =>  'Més informació',
+'HOMEPAGE_PATREON_BUTTON'   =>  'converteix-te en mecenes de Pepper&amp;Carrot a Patreon',
+'HOMEPAGE_LAST_EPISODE'     =>  'Últim episodi:',
+'HOMEPAGE_NEWS_UPDATE'      =>  'Notícies i actualitzacions:',
+'HOMEPAGE_MOREPOSTS_BUTTON' =>  'Més posts',
 'HOMEPAGE_MAINSERVICE_LINK' =>  'https://www.patreon.com/davidrevoy',
 
 ################################################################################
 # Page: Webcomics
-'WEBCOMIC_EPISODE'		    =>  'Webcomic episodes',
-'WEBCOMIC_MAKINGOF'		    =>  'Making-of',
+'WEBCOMIC_EPISODE'		    =>  'Episodis del Webcòmic',
+'WEBCOMIC_MAKINGOF'		    =>  'Creació',
 'WEBCOMIC_MAKINGOF_DESCRIPTION' =>  '
-    <p> Making-of and <a href="http://www.davidrevoy.com/static4/tutorials"> art tutorials</a>  are special bonus sponsored by my <a href="https://www.patreon.com/davidrevoy">Patreons &#39;heroes&#39;</a></p>
+    <p> La creació i <a href="http://www.davidrevoy.com/static4/tutorials"> els tutorials</a>  són bonus especials patrocinats pels meus <a href="https://www.patreon.com/davidrevoy">mecenes &#39;heroes&#39;</a></p>
 ',
-'WEBCOMIC_ARTWORK'		    =>  'Artwork gallery',
-'WEBCOMIC_SKETCHES'		    =>  'Sketches',
+'WEBCOMIC_ARTWORK'		    =>  'Galeria d'art,
+'WEBCOMIC_SKETCHES'		    =>  'Esbossos',
 
 ################################################################################
 # Page: Blog
@@ -64,7 +64,7 @@ $LANG = array(
 ################################################################################
 # Page: Philosophy
 'PHILOSOPHY_CONTENT'    =>  '
- <h2>Supported by patrons</h2>
+ <h2>Finançat per mecens</h2>
     
     <p>Pepper&amp;Carrot project is only funded by its patrons, from all around the world.<br/>
     Each patrons send a bit of money for each new episode published and get a credit at the end of the new episode.<br/>
